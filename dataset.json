@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-level restaurant census for the St. Louis area spanning Missouri and Illinois. Covers the Gateway City's diverse dining market, filtered by the Restaurants category group. Includes business profiles, ratings, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in St. Louis (Metro), MO-IL, US",
+  "export_job_id": "786db5e7-416e-4a1b-bfa6-68cdd0f416f5",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 893462,
+  "location_name": "St. Louis, MO-IL",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-st-louis-metro-mo-il-us-sample-893462",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/893462/beamstation_893462_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 411,
+  "sample_sha256": "4f1295a16eecc4f33e36f46d95cdc2e13c9a71313d33c493a2ad751e9fde473f",
+  "sample_size_bytes": 1480474,
+  "total_records": 4116,
+  "updated_at": "2026-04-14T14:50:32.501979+00:00"
+}
