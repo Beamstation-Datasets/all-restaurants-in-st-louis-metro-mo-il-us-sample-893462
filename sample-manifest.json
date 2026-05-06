@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5e25f46d-8ad7-476c-ba4e-afb009e0f16d",
+  "export_job_id": "bb71b15c-d97d-4896-b6d4-59162a187922",
   "id_short": 893462,
-  "published_at": "2026-04-28T19:33:41Z",
+  "published_at": "2026-05-06T19:17:35Z",
   "repo_name": "all-restaurants-in-st-louis-metro-mo-il-us-sample-893462",
   "sample_asset_name": "beamstation_893462_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/893462/beamstation_893462_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
-  "sample_records": 474,
-  "sample_sha256": "8d7d9ea1f3b5be042713a38fd8b153890352823de6a4843b918ac99e2810fb5c",
-  "sample_size_bytes": 1601810,
-  "total_records": 4747
+  "sample_records": 560,
+  "sample_sha256": "5138c2823c576c04b39cd4990bf257949698113f325e775c177498fd78dac2bd",
+  "sample_size_bytes": 1906153,
+  "total_records": 5608
 }
